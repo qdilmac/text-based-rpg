@@ -192,6 +192,6 @@ def main_game():
             time.sleep(0.5)
 
 if __name__ == "__main__":
-    #title_screen()
+    title_screen()
     create_character( )
     main_game()
